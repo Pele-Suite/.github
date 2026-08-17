@@ -1,4 +1,4 @@
-# Pele Suite
+<h2>Pele Suite <img align="right" src="https://github.com/user-attachments/assets/e70b1412-ca42-4ca3-9436-acdea37ef722" alt="Description" width="160" style="margin-left: 170px;" /></h2>
 
 A suite of adaptive mesh hydrodynamics simulation codes for reacting flows
 
