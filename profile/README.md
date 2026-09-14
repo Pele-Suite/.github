@@ -8,9 +8,8 @@ A suite of adaptive mesh hydrodynamics simulation codes for reacting flows
 [![PelePhysics](https://img.shields.io/badge/PelePhysics-repo-blue)](https://github.com/Pele-Suite/PelePhysics)
 [![PeleAnalysis](https://img.shields.io/badge/PeleAnalysis-repo-blue)](https://github.com/Pele-Suite/PeleAnalysis)
 
+Join Pele's Slack channel!  Click [HERE](mailto:marcus.day@sintef.no)
 
 ## Acknowledgment
 
 [The Pele Project](https://www.exascaleproject.org) was developed under the Applied Mathematics Program and the Exascale Computing Project (Project Number: 17-SC-20-SC) of the US Department of Energy.
-
-&copy; The Regents of the University of California and The Alliance for Sustainable Energy. All rights reserved.
